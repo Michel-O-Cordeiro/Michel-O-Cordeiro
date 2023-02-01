@@ -1,8 +1,7 @@
 ## Bem-vindo(a) ao perfil Michel Oliveira Cordeiro 😁
 
  <div>
-   <a href="https://github.com/Michel-O-Cordeiro
-">
+   <a href="https://github.com/Michel-O-Cordeiro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michel-O-Cordeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-O-Cordeiro&layout=compact&langs_count=6&theme=tokyonight"/>
 
