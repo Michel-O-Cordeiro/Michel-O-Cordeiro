@@ -13,7 +13,6 @@
 </div>
  
  <br>
-     https://michel-o-cordeiro.github.io/Mini-Portifolio/
  
   ### Clique nos botões abaixo para contato profissonal!
  
