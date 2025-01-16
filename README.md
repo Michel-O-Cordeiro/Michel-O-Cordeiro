@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev Full-Stack Michel O Cordeiro 😁
+## Bem-vindo(a) ao perfil do Dev Front-End/Mobile Michel O Cordeiro 😁
 
  <div>
    <a href="https://github.com/Michel-O-Cordeiro">
